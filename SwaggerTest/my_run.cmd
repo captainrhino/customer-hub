@@ -1,0 +1,2 @@
+echo 'blah'
+mvn clean
